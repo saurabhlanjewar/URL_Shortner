@@ -1,6 +1,13 @@
 # URL_Shortner
 
-Bui'd the Url shortner application.
+Build the Url shortner application.
+
+Convert
+
+URL- https://in.pinterest.com/pin/138485757481893870/
+shorten -https://tinyurl.com/ysg9rc4g
+
+Also has a functionality of having custom url for authenticated user
 
 ## Requirements
 
@@ -11,7 +18,7 @@ Bui'd the Url shortner application.
 
 pip install -r requirements.txt
 
-Run Command
+## Run Command
 
 python manage.py runserver
 
