@@ -1,4 +1,4 @@
-name : "github_workflow",
+name : "github_workflow"
 on:
   push:
     branches:
